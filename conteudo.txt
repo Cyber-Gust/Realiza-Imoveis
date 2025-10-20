@@ -1,0 +1,31 @@
+✅ Tema verde corporativo elegante
+
+✅ Next.js + Supabase + Tailwind + Shadcn/UI
+
+✅ Arquitetura limpa tipo Apple/Google
+
+✅ 3 portais:
+
+(site) público (busca e vitrine)
+
+(corretor) com pipeline, agenda e leads
+
+(adm) com CRM, imóveis, contratos, financeiro
+
+✅ Autenticação via NextAuth (placeholder Supabase)
+
+✅ Dashboard real, componentes UI completos (Sidebar, Cards, Gráficos, Tabelas, Botões)
+
+✅ Rotas API conforme routs.json
+
+routs
+
+✅ Models Supabase e RLS compatíveis com banco.sql
+
+banco
+
+✅ Tipagem completa via tabelas.json
+
+tabelas
+
+✅ Layout responsivo e clean, pronto pra deploy na Vercel

@@ -1,0 +1,76 @@
+{
+  "modules": {
+    "Segurança e Acesso": [
+      "/api/auth/[...nextauth]",
+      "/api/users",
+      "/api/users/[userId]",
+      "/api/tenants",
+      "/api/tenants/[tenantId]/users"
+    ],
+    "Compliance e Auditoria": [
+      "/api/compliance/lgpd/consents",
+      "/api/compliance/lgpd/requests",
+      "/api/audit"
+    ],
+    "Gestão de Imóveis": [
+      "/api/properties",
+      "/api/properties/[propertyId]",
+      "/api/properties/[propertyId]/media",
+      "/api/properties/[propertyId]/prices",
+      "/api/properties/[propertyId]/keys",
+      "/api/properties/[propertyId]/compliance",
+      "/api/neighborhoods"
+    ],
+    "CRM (Vendas e Locação)": [
+      "/api/crm/leads",
+      "/api/crm/leads/[leadId]",
+      "/api/crm/deals",
+      "/api/crm/deals/[dealId]",
+      "/api/crm/activities",
+      "/api/crm/activities/[activityId]",
+      "/api/crm/proposals",
+      "/api/crm/proposals/[proposalId]",
+      "/api/crm/appointments",
+      "/api/crm/appointments/[appointmentId]",
+      "/api/crm/contacts",
+      "/api/crm/contacts/[contactId]"
+    ],
+    "Contratos e Legal": [
+      "/api/contracts",
+      "/api/contracts/[contractId]",
+      "/api/contracts/[contractId]/adjustments",
+      "/api/contracts/[contractId]/documents",
+      "/api/contracts/templates",
+      "/api/contracts/templates/[templateId]"
+    ],
+    "Financeiro": [
+      "/api/financials/invoices",
+      "/api/financials/invoices/[invoiceId]",
+      "/api/financials/payments",
+      "/api/financials/payouts",
+      "/api/financials/commissions",
+      "/api/financials/dunning-rules",
+      "/api/financials/settings/cost-centers",
+      "/api/financials/settings/chart-of-accounts"
+    ],
+    "Manutenção e Operações": [
+      "/api/maintenance/tickets",
+      "/api/maintenance/tickets/[ticketId]",
+      "/api/maintenance/tickets/[ticketId]/quotes",
+      "/api/maintenance/work-orders",
+      "/api/maintenance/work-orders/[orderId]",
+      "/api/maintenance/inspections",
+      "/api/maintenance/inspections/[inspectionId]",
+      "/api/maintenance/inspections/[inspectionId]/items",
+      "/api/maintenance/vendors"
+    ],
+    "Marketing e Growth": [
+      "/api/marketing/posts",
+      "/api/marketing/posts/[slug]"
+    ],
+    "Integrações": [
+      "/api/integrations/webhooks",
+      "/api/integrations/accounts"
+    ]
+  }
+}

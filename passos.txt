@@ -1,0 +1,183 @@
+Fase 0: Fundação e Configuração do Ambiente
+Este é o alicerce do projeto. O objetivo é preparar todas as ferramentas e a estrutura básica antes de escrever a primeira funcionalidade.
+
+Escolha da Stack Tecnológica:
+
+Frontend e Backend: Next.js (conforme solicitado para a estrutura de pastas).
+
+Banco de Dados: Supabase (PostgreSQL), aproveitando o script banco.sql fornecido, que já inclui autenticação e políticas de segurança a nível de linha (RLS).
+
+Estilização: Tailwind CSS com uma biblioteca de componentes como Shadcn/UI ou similar para agilizar o desenvolvimento da UI.
+
+Configuração do Ambiente de Desenvolvimento:
+
+Criar um novo projeto Next.js.
+
+Criar um novo projeto no Supabase.
+
+Executar o script banco.sql no editor SQL do Supabase para criar todas as tabelas, tipos, funções e políticas de segurança.
+
+Configurar as variáveis de ambiente no Next.js (.env.local) com as chaves de API do Supabase.
+
+Fase 1: Autenticação e Gestão de Acesso (Core)
+Nenhum sistema funciona sem usuários. Esta fase foca em criar o sistema de login e controle de permissões.
+
+Implementar Autenticação de Usuários:
+
+Integrar o Supabase Auth com o Next.js para gerenciar login, cadastro e recuperação de senha.
+
+Criar rotas e páginas de autenticação.
+
+Desenvolver a API de Gestão de Acesso:
+
+Criar os endpoints da API para gerenciar perfis e papéis (Admin, Corretor, etc.).
+
+Garantir que as Políticas de Segurança de Linha (RLS) do Supabase estejam ativas e funcionando, restringindo o acesso aos dados com base no papel do usuário logado.
+
+Implementar a Trilha de Auditoria:
+
+Confirmar que o gatilho (trigger) de auditoria no banco de dados está registrando todas as alterações importantes, como quem alterou um contrato ou o preço de um imóvel.
+
+
+Fase 2: Módulo de Gestão de Imóveis (O Produto Principal)
+Com os usuários definidos, o próximo passo é gerenciar o inventário principal: os imóveis.
+
+API para Cadastro de Imóveis:
+
+Desenvolver os endpoints para CRUD (Criar, Ler, Atualizar, Deletar) de imóveis.
+
+Implementar a lógica para o "Cadastro Rico", incluindo características, detalhes financeiros e proprietários.
+
+Interface de Cadastro e Listagem:
+
+Criar um formulário detalhado no painel administrativo para cadastrar e editar imóveis.
+
+Desenvolver uma tela para listar todos os imóveis da carteira, com filtros e busca.
+
+Funcionalidades Adicionais do Imóvel:
+
+Implementar o upload de mídias (fotos, plantas).
+
+
+Criar o sistema de controle de chaves (retirada/devolução).
+
+Desenvolver a gestão de documentos de compliance (AVCB, Habite-se) com alertas de validade.
+
+Fase 3: Módulo CRM e Funil de Vendas/Locação
+Com os imóveis cadastrados, o foco muda para a geração e gestão de oportunidades de negócio.
+
+API de Gestão de Leads e Negócios:
+
+Criar endpoints para capturar e gerenciar leads de diversas fontes (site, WhatsApp, etc.).
+
+Desenvolver a lógica para o pipeline de vendas/locação (Kanban).
+
+Interface do CRM:
+
+Construir o painel do pipeline Kanban para visualizar o andamento de cada negociação.
+
+Criar formulários para qualificação de leads, registrando perfil e orçamento.
+
+Implementar a agenda integrada de corretores e o sistema de tarefas com lembretes (follow-ups).
+
+Fluxo de Propostas:
+
+Desenvolver o sistema para envio e gestão de propostas online, incluindo contrapropostas.
+
+Fase 4: Módulo de Contratos e Legal
+Após a aceitação da proposta, o processo é formalizado através de contratos.
+
+API de Geração e Gestão de Contratos:
+
+Criar a funcionalidade para gerar contratos a partir de templates dinâmicos.
+
+Integrar com um serviço de assinatura digital (Clicksign/DocuSign).
+
+Automação Pós-Contrato:
+
+Desenvolver a lógica para reajuste automático de aluguel (IGP-M/IPCA).
+
+
+Criar os fluxos de trabalho para renovação e rescisão de contratos, com cálculo de multas proporcionais.
+
+
+Fase 5: Módulo Financeiro (Core Business)
+Esta é uma das partes mais críticas, responsável por toda a movimentação financeira.
+
+API de Contas a Receber e a Pagar:
+
+Implementar a geração de cobranças (boletos, PIX) para inquilinos.
+
+Desenvolver o fluxo de repasse automático para proprietários, com abatimento de despesas.
+
+Criar a lógica para cálculo automático de multas e juros por atraso.
+
+
+Interface Financeira:
+
+Construir um painel de "Contas a Receber" e "Contas a Pagar".
+
+Desenvolver a tela de extrato para o proprietário.
+
+Implementar o sistema de gestão de inadimplência com uma régua de cobrança automática.
+
+Fase 6: Módulo de Manutenção e Operações
+Gerencia as demandas que surgem após a assinatura do contrato de locação.
+
+API de Chamados e Ordens de Serviço:
+
+Criar endpoints para que inquilinos abram chamados de manutenção.
+
+Desenvolver o fluxo para solicitação de orçamentos e criação de Ordens de Serviço (OS) para prestadores.
+
+
+Gestão de Vistorias:
+
+Implementar o sistema de vistorias de entrada e saída, com checklists por cômodo e upload de fotos.
+
+
+Fase 7: Portais e Vitrine Pública
+Com todo o back-office estruturado, o foco se volta para as interfaces externas.
+
+Desenvolver o Site Público (Vitrine):
+
+Criar a vitrine de imóveis com busca avançada.
+
+Desenvolver as páginas de detalhe de cada imóvel, com galeria de fotos, ficha técnica e análise de custos.
+
+Implementar os CTAs (Calls-to-Action) como "Agendar Visita" e "Proposta Online".
+
+Construir o blog com foco em SEO.
+
+Desenvolver os Portais Dedicados:
+
+Criar o Portal de Corretores, com acesso a leads, agenda e comissões.
+
+Construir a Área do Cliente, onde proprietários e inquilinos podem acessar extratos, contratos e abrir chamados.
+
+Fase 8: Módulo de Inteligência de Negócios (BI)
+Com os dados sendo gerados, esta fase cria ferramentas para análise e tomada de decisão.
+
+Desenvolver o Dashboard Principal (Cockpit C-Level):
+
+Criar um painel 360° com os principais KPIs: funil de vendas, taxa de vacância, ticket médio, inadimplência, etc.
+
+Implementar o "Alert Center" para notificações importantes, como contratos a vencer e reajustes pendentes.
+
+
+Fase 9: Implantação e Otimização
+A fase final de preparação para o lançamento e melhoria contínua.
+
+Deployment:
+
+Publicar a aplicação Next.js em uma plataforma como a Vercel. O Supabase já é uma plataforma em nuvem.
+
+Marketing e SEO:
+
+Configurar pixels de rastreamento (GA4, Meta) e eventos de conversão.
+
+Realizar otimizações técnicas de SEO, como sitemaps e URLs amigáveis.
+
+Monitoramento e Manutenção:
+
+Configurar ferramentas de monitoramento de performance e erros para garantir a estabilidade da plataforma.
