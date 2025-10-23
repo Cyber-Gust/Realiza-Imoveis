@@ -1,0 +1,69 @@
+[
+  {
+    "id": 19608,
+    "slug": "casa-alto-dos-pinheiros",
+    "corretorId": 1, 
+    "tituloPrincipal": "Uma casa para você arrumar as malas e mudar logo para venda",
+    "condominio": "Cond. Alto Dos Pinheiros",
+    "bairro": "Serra D'Água",
+    "endereco": "Rua Eduardo Sathler, 220, Serra D'Água, Juiz de Fora, MG, 36035-720",
+    "statusNegociacao": "Venda",
+    "valorVenda": "1.490.000,00",
+    "midias": [
+        {"url": "https://via.placeholder.com/600x400/98A89A/FFFFFF?text=FOTO_1", "legenda": "Fachada"},
+        {"url": "https://via.placeholder.com/600x400/C5D1C3/000000?text=FOTO_2", "legenda": "Sala"}
+    ],
+    "caracteristicas": {
+      "quartos": 3,
+      "suites": 3,
+      "banheiros": 2,
+      "vagas": 4,
+      "areaM2": 202,
+      "elevador": 0
+    },
+    "valores": {
+      "valorCompra": "1.490.000,00",
+      "condominioMensal": "270,00",
+      "iptuAnual": "3.647,00"
+    },
+    "detalhes": {
+      "descricao": "Essa é uma daquelas casas que encantam logo de cara pela imponência da fachada...",
+      "posicao": ["Frente"], "vista": ["Com vista"], "pisoAreaSocial": ["Porcelanato"], 
+      "pisoAreasMolhadas": ["Porcelanato"], "pisoAreaIntima": ["Laminado de madeira"], 
+      "acesso": ["Entrada serviço", "Entrada social"], 
+      "comodidades": ["Ar condicionado instalado", "Piscina", "Espaço gourmet"]
+    }
+  },
+  {
+    "id": 19609,
+    "slug": "apartamento-vista-verde",
+    "corretorId": 2, 
+    "tituloPrincipal": "Apartamento com varanda gourmet e vista para o parque",
+    "condominio": "Residencial Vista Verde",
+    "bairro": "São Mateus",
+    "endereco": "Rua das Flores, 100, São Mateus, Juiz de Fora, MG, 36035-720",
+    "statusNegociacao": "Locação",
+    "valorVenda": "450.000,00",
+    "midias": [],
+    "caracteristicas": {
+      "quartos": 2,
+      "suites": 1,
+      "banheiros": 1,
+      "vagas": 1,
+      "areaM2": 78,
+      "elevador": 1
+    },
+    "valores": {
+      "valorLocacao": "1.800,00",
+      "condominioMensal": "350,00",
+      "iptuAnual": "900,00"
+    },
+    "detalhes": {
+      "descricao": "Apartamento novo, ideal para quem busca praticidade e lazer.",
+      "posicao": ["Fundo"], "vista": ["Sem vista"], "pisoAreaSocial": ["Porcelanato"], 
+      "pisoAreasMolhadas": ["Cerâmica"], "pisoAreaIntima": ["Laminado"], 
+      "acesso": ["Entrada social"], 
+      "comodidades": ["Churrasqueira", "Piscina", "Lavabo"]
+    }
+  }
+]

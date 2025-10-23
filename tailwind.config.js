@@ -14,6 +14,8 @@ module.exports = {
         primary: {
           DEFAULT: '#212125', // cor principal para paineis
           foreground: '#D9D9D9', // texto em cima da cor primaria
+          backgroundClaro: '#ffffffff',
+          backgroundCard: '#b33030ff',
         },
         secondary: '#3E444A',
         accent: {

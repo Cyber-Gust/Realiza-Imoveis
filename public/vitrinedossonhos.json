@@ -1,0 +1,296 @@
+[
+    {
+        "id": "11345",
+        "corretor": "Beta Souza Gomes",
+        "corretorAvatar": "/images/avatar.webp",
+        "tituloDetalhe": "2 quartos com planejados, 2 vagas e lazer para locação",
+        "tituloCurto": "Apartamento 2 quartos",
+        "condominio": "Cond. Ed. Diamond Residence",
+        "bairro": "Centro",
+        "valorLocacao": "2.200,00",
+        "status": "Locação",
+        "imagemPrincipal": "/images/testecard.jpg",
+        "caracteristicas": {
+            "quartos": 2,
+            "suites": 1,
+            "banheiros": 2,
+            "vagas": 2,
+            "vagaMoto": 0,
+            "areaM2": 112,
+            "elevadores": 3
+        }
+    },
+    {
+        "id": "13067",
+        "corretor": "Beta Souza Gomes",
+        "corretorAvatar": "/images/avatar.webp",
+        "tituloDetalhe": "2 quartos arejado e prático no Centro para locação",
+        "tituloCurto": "CaSA 2 quartos",
+        "condominio": "Cond. Ed. Solar Constantino Paleta",
+        "bairro": "Centro",
+        "valorLocacao": "1.200,00",
+        "status": "Locação",
+        "imagemPrincipal": "/images/testecard.jpg",
+        "caracteristicas": {
+            "quartos": 2,
+            "suites": 0,
+            "banheiros": 2,
+            "vagas": 1,
+            "vagaMoto": 0,
+            "areaM2": 73,
+            "elevadores": 2
+        }
+    },
+    {
+        "id": "2763",
+        "corretor": "Beta Souza Gomes",
+        "corretorAvatar": "/images/avatar.webp",
+        "tituloDetalhe": "Aproveite as varandas e a luz natural para locação",
+        "tituloCurto": "Apartamento 1 quarto",
+        "condominio": "Cond. Ed. Baronesa Drumont",
+        "bairro": "Centro",
+        "valorLocacao": "1.350,00",
+        "status": "Locação",
+        "imagemPrincipal": "/images/testecard.jpg",
+        "caracteristicas": {
+            "quartos": 1,
+            "suites": 0,
+            "banheiros": 1,
+            "vagas": 1,
+            "vagaMoto": 0,
+            "areaM2": 63,
+            "elevadores": 1
+        }
+    },
+    {
+        "id": "7763",
+        "corretor": "Beta Souza Gomes",
+        "corretorAvatar": "/images/avatar.webp",
+        "tituloDetalhe": "Aproveite as varandas e a luz natural para locação",
+        "tituloCurto": "Apartamento 1 quarto",
+        "condominio": "Cond. Ed. Baronesa Drumont",
+        "bairro": "Centro",
+        "valorLocacao": "1.350,00",
+        "status": "Locação",
+        "imagemPrincipal": "/images/testecard.jpg",
+        "caracteristicas": {
+            "quartos": 1,
+            "suites": 0,
+            "banheiros": 1,
+            "vagas": 1,
+            "vagaMoto": 0,
+            "areaM2": 63,
+            "elevadores": 1
+        }
+    },
+    {
+        "id": "22763",
+        "corretor": "Beta Souza Gomes",
+        "corretorAvatar": "/images/avatar.webp",
+        "tituloDetalhe": "Aproveite as varandas e a luz natural para locação",
+        "tituloCurto": "Apartamento 1 quarto",
+        "condominio": "Cond. Ed. Baronesa Drumont",
+        "bairro": "Centro",
+        "valorLocacao": "1.350,00",
+        "status": "Locação",
+        "imagemPrincipal": "/images/testecard.jpg",
+        "caracteristicas": {
+            "quartos": 1,
+            "suites": 0,
+            "banheiros": 1,
+            "vagas": 1,
+            "vagaMoto": 0,
+            "areaM2": 63,
+            "elevadores": 1
+        }
+    },
+    {
+        "id": "12763",
+        "corretor": "Beta Souza Gomes",
+        "corretorAvatar": "/images/avatar.webp",
+        "tituloDetalhe": "Aproveite as varandas e a luz natural para locação",
+        "tituloCurto": "Apartamento 1 quarto",
+        "condominio": "Cond. Ed. Baronesa Drumont",
+        "bairro": "Centro",
+        "valorLocacao": "1.350,00",
+        "status": "Locação",
+        "imagemPrincipal": "/images/testecard.jpg",
+        "caracteristicas": {
+            "quartos": 1,
+            "suites": 0,
+            "banheiros": 1,
+            "vagas": 1,
+            "vagaMoto": 0,
+            "areaM2": 63,
+            "elevadores": 1
+        }
+    },
+    {
+        "id": "32763",
+        "corretor": "Beta Souza Gomes",
+        "corretorAvatar": "/images/avatar.webp",
+        "tituloDetalhe": "Aproveite as varandas e a luz natural para locação",
+        "tituloCurto": "Apartamento 1 quarto",
+        "condominio": "Cond. Ed. Baronesa Drumont",
+        "bairro": "Centro",
+        "valorLocacao": "1.350,00",
+        "status": "Locação",
+        "imagemPrincipal": "/images/testecard.jpg",
+        "caracteristicas": {
+            "quartos": 1,
+            "suites": 0,
+            "banheiros": 1,
+            "vagas": 1,
+            "vagaMoto": 0,
+            "areaM2": 63,
+            "elevadores": 1
+        }
+    },
+    {
+        "id": "52763",
+        "corretor": "Beta Souza Gomes",
+        "corretorAvatar": "/images/avatar.webp",
+        "tituloDetalhe": "Aproveite as varandas e a luz natural para locação",
+        "tituloCurto": "Apartamento 1 quarto",
+        "condominio": "Cond. Ed. Baronesa Drumont",
+        "bairro": "Centro",
+        "valorLocacao": "1.350,00",
+        "status": "Locação",
+        "imagemPrincipal": "/images/testecard.jpg",
+        "caracteristicas": {
+            "quartos": 1,
+            "suites": 0,
+            "banheiros": 1,
+            "vagas": 1,
+            "vagaMoto": 0,
+            "areaM2": 63,
+            "elevadores": 1
+        }
+    },
+    {
+        "id": "42763",
+        "corretor": "Beta Souza Gomes",
+        "corretorAvatar": "/images/avatar.webp",
+        "tituloDetalhe": "Aproveite as varandas e a luz natural para locação",
+        "tituloCurto": "Apartamento 1 quarto",
+        "condominio": "Cond. Ed. Baronesa Drumont",
+        "bairro": "Centro",
+        "valorLocacao": "1.350,00",
+        "status": "Locação",
+        "imagemPrincipal": "/images/testecard.jpg",
+        "caracteristicas": {
+            "quartos": 1,
+            "suites": 0,
+            "banheiros": 1,
+            "vagas": 1,
+            "vagaMoto": 0,
+            "areaM2": 63,
+            "elevadores": 1
+        }
+    },
+    {
+        "id": "62763",
+        "corretor": "Beta Souza Gomes",
+        "corretorAvatar": "/images/avatar.webp",
+        "tituloDetalhe": "Aproveite as varandas e a luz natural para locação",
+        "tituloCurto": "Apartamento 1 quarto",
+        "condominio": "Cond. Ed. Baronesa Drumont",
+        "bairro": "Centro",
+        "valorLocacao": "1.350,00",
+        "status": "Locação",
+        "imagemPrincipal": "/images/testecard.jpg",
+        "caracteristicas": {
+            "quartos": 1,
+            "suites": 0,
+            "banheiros": 1,
+            "vagas": 1,
+            "vagaMoto": 0,
+            "areaM2": 63,
+            "elevadores": 1
+        }
+    },
+    {
+        "id": "72763",
+        "corretor": "Beta Souza Gomes",
+        "corretorAvatar": "/images/avatar.webp",
+        "tituloDetalhe": "Aproveite as varandas e a luz natural para locação",
+        "tituloCurto": "Apartamento 1 quarto",
+        "condominio": "Cond. Ed. Baronesa Drumont",
+        "bairro": "Centro",
+        "valorLocacao": "1.350,00",
+        "status": "Locação",
+        "imagemPrincipal": "/images/testecard.jpg",
+        "caracteristicas": {
+            "quartos": 1,
+            "suites": 0,
+            "banheiros": 1,
+            "vagas": 1,
+            "vagaMoto": 0,
+            "areaM2": 63,
+            "elevadores": 1
+        }
+    },
+    {
+        "id": "82763",
+        "corretor": "Beta Souza Gomes",
+        "corretorAvatar": "/images/avatar.webp",
+        "tituloDetalhe": "Aproveite as varandas e a luz natural para locação",
+        "tituloCurto": "Apartamento 1 quarto",
+        "condominio": "Cond. Ed. Baronesa Drumont",
+        "bairro": "Centro",
+        "valorLocacao": "1.350,00",
+        "status": "Locação",
+        "imagemPrincipal": "/images/testecard.jpg",
+        "caracteristicas": {
+            "quartos": 1,
+            "suites": 0,
+            "banheiros": 1,
+            "vagas": 1,
+            "vagaMoto": 0,
+            "areaM2": 63,
+            "elevadores": 1
+        }
+    },
+    {
+        "id": "92763",
+        "corretor": "Beta Souza Gomes",
+        "corretorAvatar": "/images/avatar.webp",
+        "tituloDetalhe": "Aproveite as varandas e a luz natural para locação",
+        "tituloCurto": "Apartamento 1 quarto",
+        "condominio": "Cond. Ed. Baronesa Drumont",
+        "bairro": "Centro",
+        "valorLocacao": "1.350,00",
+        "status": "Locação",
+        "imagemPrincipal": "/images/testecard.jpg",
+        "caracteristicas": {
+            "quartos": 1,
+            "suites": 0,
+            "banheiros": 1,
+            "vagas": 1,
+            "vagaMoto": 0,
+            "areaM2": 63,
+            "elevadores": 1
+        }
+    },
+    {
+        "id": "112763",
+        "corretor": "Beta Souza Gomes",
+        "corretorAvatar": "/images/avatar.webp",
+        "tituloDetalhe": "Aproveite as varandas e a luz natural para locação",
+        "tituloCurto": "Apartamento 1 quarto",
+        "condominio": "Cond. Ed. Baronesa Drumont",
+        "bairro": "Centro",
+        "valorLocacao": "1.350,00",
+        "status": "Locação",
+        "imagemPrincipal": "/images/testecard.jpg",
+        "caracteristicas": {
+            "quartos": 1,
+            "suites": 0,
+            "banheiros": 1,
+            "vagas": 1,
+            "vagaMoto": 0,
+            "areaM2": 63,
+            "elevadores": 1
+        }
+    }
+]

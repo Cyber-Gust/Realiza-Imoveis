@@ -1,0 +1,138 @@
+{
+  "gustavo-brum": {
+    "id": 1,
+    "nome": "Gustavo Brum",
+    "slug": "gustavo-brum",
+    "creci": "17.383-MG",
+    "telefone": "(32) 98892-8200",
+    "email": "gustavo@souzagomes.com.br",
+    "imoveisCadastrados": 83,
+    "imagemPerfil": "/images/avatar.webp",
+    "resumo": "Com uma personalidade mais calma e tranquila...",
+    "detalhes": [
+      "Em casa é curioso e busca sempre fazer alguma coisa...",
+      "Gustavo gosta de conhecer lugares diferentes..."
+    ]
+  },
+  "ayrton-augusto": {
+    "id": 2,
+    "nome": "Ayrton Augusto",
+    "slug": "ayrton-augusto",
+    "creci": "22.500-MG",
+    "telefone": "(32) 98765-4321",
+    "email": "ayrton@souzagomes.com.br",
+    "imoveisCadastrados": 45,
+    "imagemPerfil": "https://via.placeholder.com/600x600/3A644D/FFFFFF?text=AYRTON_AUGUSTO",
+    "resumo": "Ayrton é especialista em imóveis de alto valor e financiamento...",
+    "detalhes": [
+      "Dedica-se a encontrar a melhor solução para seus clientes...",
+      "Ama esportes de aventura e montanhas."
+    ]
+  },
+  "carolina-silva": {
+    "id": 3,
+    "nome": "Carolina Silva",
+    "slug": "carolina-silva",
+    "creci": "19.900-MG",
+    "telefone": "(32) 91234-5678",
+    "email": "carol@souzagomes.com.br",
+    "imoveisCadastrados": 62,
+    "imagemPerfil": "https://via.placeholder.com/600x600/779878/000000?text=CAROLINA_SILVA",
+    "resumo": "Carolina tem paixão por design de interiores e ajuda a visualizar o potencial dos imóveis.",
+    "detalhes": [
+      "Viaja sempre que possível em busca de novas tendências.",
+      "Seu hobby é jardinagem."
+    ]
+  },
+   "Renan-silva": {
+    "id": 3,
+    "nome": "Carolina Silva",
+    "slug": "carolina-silva",
+    "creci": "19.900-MG",
+    "telefone": "(32) 91234-5678",
+    "email": "carol@souzagomes.com.br",
+    "imoveisCadastrados": 62,
+    "imagemPerfil": "https://via.placeholder.com/600x600/779878/000000?text=CAROLINA_SILVA",
+    "resumo": "Carolina tem paixão por design de interiores e ajuda a visualizar o potencial dos imóveis.",
+    "detalhes": [
+      "Viaja sempre que possível em busca de novas tendências.",
+      "Seu hobby é jardinagem."
+    ]
+  },
+   "Macaco": {
+    "id": 3,
+    "nome": "Carolina Silva",
+    "slug": "carolina-silva",
+    "creci": "19.900-MG",
+    "telefone": "(32) 91234-5678",
+    "email": "carol@souzagomes.com.br",
+    "imoveisCadastrados": 62,
+    "imagemPerfil": "https://via.placeholder.com/600x600/779878/000000?text=CAROLINA_SILVA",
+    "resumo": "Carolina tem paixão por design de interiores e ajuda a visualizar o potencial dos imóveis.",
+    "detalhes": [
+      "Viaja sempre que possível em busca de novas tendências.",
+      "Seu hobby é jardinagem."
+    ]
+  },
+   "pedrinho matador": {
+    "id": 3,
+    "nome": "Carolina Silva",
+    "slug": "carolina-silva",
+    "creci": "19.900-MG",
+    "telefone": "(32) 91234-5678",
+    "email": "carol@souzagomes.com.br",
+    "imoveisCadastrados": 62,
+    "imagemPerfil": "https://via.placeholder.com/600x600/779878/000000?text=CAROLINA_SILVA",
+    "resumo": "Carolina tem paixão por design de interiores e ajuda a visualizar o potencial dos imóveis.",
+    "detalhes": [
+      "Viaja sempre que possível em busca de novas tendências.",
+      "Seu hobby é jardinagem."
+    ]
+  },
+   "tiririca": {
+    "id": 3,
+    "nome": "Carolina Silva",
+    "slug": "carolina-silva",
+    "creci": "19.900-MG",
+    "telefone": "(32) 91234-5678",
+    "email": "carol@souzagomes.com.br",
+    "imoveisCadastrados": 62,
+    "imagemPerfil": "https://via.placeholder.com/600x600/779878/000000?text=CAROLINA_SILVA",
+    "resumo": "Carolina tem paixão por design de interiores e ajuda a visualizar o potencial dos imóveis.",
+    "detalhes": [
+      "Viaja sempre que possível em busca de novas tendências.",
+      "Seu hobby é jardinagem."
+    ]
+  },
+   "tião do bar": {
+    "id": 3,
+    "nome": "Carolina Silva",
+    "slug": "carolina-silva",
+    "creci": "19.900-MG",
+    "telefone": "(32) 91234-5678",
+    "email": "carol@souzagomes.com.br",
+    "imoveisCadastrados": 62,
+    "imagemPerfil": "https://via.placeholder.com/600x600/779878/000000?text=CAROLINA_SILVA",
+    "resumo": "Carolina tem paixão por design de interiores e ajuda a visualizar o potencial dos imóveis.",
+    "detalhes": [
+      "Viaja sempre que possível em busca de novas tendências.",
+      "Seu hobby é jardinagem."
+    ]
+  },
+   "gugu": {
+    "id": 3,
+    "nome": "Carolina Silva",
+    "slug": "carolina-silva",
+    "creci": "19.900-MG",
+    "telefone": "(32) 91234-5678",
+    "email": "carol@souzagomes.com.br",
+    "imoveisCadastrados": 62,
+    "imagemPerfil": "https://via.placeholder.com/600x600/779878/000000?text=CAROLINA_SILVA",
+    "resumo": "Carolina tem paixão por design de interiores e ajuda a visualizar o potencial dos imóveis.",
+    "detalhes": [
+      "Viaja sempre que possível em busca de novas tendências.",
+      "Seu hobby é jardinagem."
+    ]
+  }
+
+}
